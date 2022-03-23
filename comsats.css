@@ -1,0 +1,106 @@
+.inline{
+    display: inline;
+}
+.Head1 div{
+    float: right ;
+}
+.Head1{
+    background-color:  #923a0e;
+    padding: 8px;
+    overflow: hidden;
+}
+.Head1 p{
+    margin-left: 35px;
+    color: rgb(241, 235, 235);
+}
+body{
+    margin: 0%;
+}
+.Head1 div img{
+    margin-right: 10px;
+}
+.Head2A div{
+    margin-top: 20px;
+    margin-right: 10px ;
+    float:right;
+    
+}
+.Head2A img{
+    width: 60%;
+}
+.Head2A{
+    float: right;
+    width: 40%;
+}
+.Head2{
+    background-color: #c0531d;
+    padding: 15px;
+}
+.Head2A div p{
+    color: rgb(214, 211, 211);
+}
+.Head3A li{
+    display: inline;
+    margin-right: 10px;
+}
+.Head3B li{
+    display: inline;
+    margin-right: 10px;
+}
+.Head3B{
+    width: 30%;
+    float: right;
+}
+.Head3A{
+    width: 50%;
+    float: left;
+}
+.Head3{
+    background-color: rgb(235, 235, 235);
+    overflow: hidden;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+
+.div2 div{
+    background-color: white;
+    border: 1px solid black;
+    width: 22%;
+    float: left;
+    margin-left: 10px;
+    padding: 10px;
+}
+.div2{
+    padding: 10px;
+    background-color: rgb(209, 204, 204);
+    overflow: hidden;
+}
+
+  .div2 div p{
+      background-color: #c0531d;
+      width: 40%;
+      padding: 20px;
+      margin-left: 60px;
+     color: white;
+     text-align: center;
+  }
+  .div2 div h2{
+      text-align: center;
+  }
+  .div2 div pre{
+      font-family: sans-serif;
+      overflow: hidden;
+      text-align: center;
+  }
+  .stikey{
+      width: 4%;
+      float: right;
+      position: sticky;
+  bottom: 1rem;
+  align-self: flex-end;
+  margin-right: 10px;
+  }
